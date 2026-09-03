@@ -37,6 +37,6 @@ Soy Licenciada en Informática y Técnica en Programación. Mi interés profesio
 
 ### Contacto
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF79C6?style=for-the-badge&logo=vercel&logoColor=282A36)](https://jazminbustos.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jazminpbustos/)
-[![Email](https://img.shields.io/badge/Email-BD93F9?style=for-the-badge&logo=microsoftoutlook&logoColor=282A36)](mailto:jaz_bustos@outlook.com)
+<a href="https://jazminbustos.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-FF79C6?style=for-the-badge&logo=vercel&logoColor=282A36" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/jazminpbustos/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:jaz_bustos@outlook.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-BD93F9?style=for-the-badge&logo=microsoftoutlook&logoColor=282A36" alt="Email"></a>
