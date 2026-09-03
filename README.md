@@ -5,7 +5,7 @@
 <h1 align="center">Hola, soy Jazmín Bustos 👋🏻</h1>
 
 <p align="center">
-  <strong>Desarrollo web · Informática</strong>
+  <strong>Desarrollo de Software · Informática</strong>
 </p>
 
 Soy Licenciada en Informática y Técnica en Programación. Mi interés profesional está orientado al desarrollo web y de software, y a seguir profundizando en inteligencia artificial y nuevas tecnologías.
