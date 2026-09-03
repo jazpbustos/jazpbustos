@@ -4,7 +4,7 @@
   <strong>Desarrollo de software · Desarrollo web</strong>
 </p>
 
-<img src="./assets/color-line.svg" width="100%" alt="Línea decorativa multicolor">
+<img src="color-line.svg" width="100%" alt="Línea decorativa multicolor">
 
 ### Sobre mí
 
