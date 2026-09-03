@@ -1,10 +1,12 @@
-<h1 align="center">Hola, soy Jazmín Bustos</h1>
+<img src="./assets/color-line.svg" width="100%" alt="Línea decorativa multicolor">
+
+<img src="./assets/banner-jazmin.png" width="100%" alt="Ilustración de Jazmín desarrollando software">
+
+<h1 align="center">Hola, soy Jazmín Bustos 👋</h1>
 
 <p align="center">
-  <strong>Desarrollo de software · Desarrollo web</strong>
+  <strong>Desarrollo de software · Desarrollo web · Informática</strong>
 </p>
-
-<img src="color-line.svg" width="100%" alt="Línea decorativa multicolor">
 
 ### Sobre mí
 
@@ -27,4 +29,3 @@ Mi interés profesional está orientado al desarrollo de software y al desarroll
 ### Contacto
 
 [Portfolio](https://jazminbustos.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/jazminpbustos/) · [Email](mailto:jaz_bustos@outlook.com)
-
