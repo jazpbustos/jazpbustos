@@ -8,7 +8,7 @@
   <strong>Desarrollo de Software · Informática</strong>
 </p>
 
-Soy Licenciada en Informática y Técnica en Programación. Mi interés profesional está orientado al desarrollo web y de software, y a seguir profundizando en inteligencia artificial y nuevas tecnologías.
+Soy estudiante avanzada de Licenciatura en Informática y Técnica en Programación. Mi interés profesional está orientado al desarrollo web y de software, y a seguir profundizando en inteligencia artificial y nuevas tecnologías.
 
 ### Tecnologías
 
