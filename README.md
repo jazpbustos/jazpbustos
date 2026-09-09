@@ -37,6 +37,10 @@ Soy estudiante avanzada de Licenciatura en Informática y Técnica en Programaci
 
 ### Contacto
 
-<a href="https://jazminbustos.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-FF79C6?style=for-the-badge&logo=vercel&logoColor=282A36" alt="Portfolio"></a>
+<!--
+<a href="https://jazminbustos.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-FF79C6?style=for-the-badge&logo=vercel&logoColor=282A36" alt="Portfolio">
+</a>
+-->
 <a href="https://www.linkedin.com/in/jazminpbustos/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:jaz_bustos@outlook.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-BD93F9?style=for-the-badge&logo=microsoftoutlook&logoColor=282A36" alt="Email"></a>
