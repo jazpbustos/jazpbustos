@@ -10,14 +10,9 @@
 
 Soy **Jazmín Bustos**, estudiante avanzada de **Licenciatura en Informática** y **Técnica en Programación**.
 
-Mi interés profesional está orientado al desarrollo web y de software, y a seguir profundizando en inteligencia artificial y nuevas tecnologías.
-
-```yaml
-jazpbustos:
-  enfoque: desarrollo web y de software
-  explorando: inteligencia artificial y nuevas tecnologías
-  modo: seguir aprendiendo
-```
+<p align="center">
+  <img src="./assets/terminal-profile.svg" width="960" alt="Mi interés profesional está orientado al desarrollo web y de software, y a seguir profundizando en inteligencia artificial y nuevas tecnologías. Modo: seguir aprendiendo.">
+</p>
 
 <img src="./assets/divider-citypop.svg" width="100%" alt="">
 
