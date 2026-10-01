@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner-citypop.svg" width="960" alt="Hola, soy Jazmín Bustos. Desarrollo de software · Informática. Portada city pop en violeta y rosa.">
+  <img src="./assets/banner-stickers.svg" width="960" alt="Hola, soy Jazmín Bustos. Desarrollo de software · Informática. Collage de stickers en crema, lila y rosa.">
 </p>
 
 <p align="center">

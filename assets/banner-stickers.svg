@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="340" viewBox="0 0 960 340" role="img" aria-labelledby="title desc">
+<title id="title">Hola, soy Jazmín Bustos</title>
+<desc id="desc">Desarrollo de software e Informática. Collage de stickers con una ventana de código, flores, estrellas y un cursor sobre papel crema.</desc>
+<defs>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#d9cfc8" stroke-width=".7" opacity=".5"/></pattern>
+  <clipPath id="frame"><rect width="960" height="340" rx="22"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="960" height="340" fill="#faf5ec"/><rect width="960" height="340" fill="url(#grid)"/>
+<ellipse cx="482" cy="175" rx="262" ry="136" fill="#faf5ec"/>
+<g transform="translate(33 67) rotate(-9 86 67)">
+  <rect x="3" y="6" width="165" height="131" rx="15" fill="#ded2dd"/>
+  <rect width="165" height="131" rx="13" fill="#d9c8f0" stroke="white" stroke-width="7"/>
+  <path d="M2 30H163" stroke="#614065" stroke-width="1.5"/>
+  <g fill="#765779"><circle cx="17" cy="15" r="3"/><circle cx="28" cy="15" r="3"/><circle cx="39" cy="15" r="3"/></g>
+  <text x="82" y="86" text-anchor="middle" font-family="Consolas,monospace" font-size="43" font-weight="bold" fill="#53365b">&lt;/&gt;</text>
+  <text x="82" y="113" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="11" letter-spacing="2" fill="#614065">IDEAS EN CÓDIGO</text>
+</g>
+<g transform="translate(782 50) rotate(12 56 55)">
+  <g fill="#edb2c6" stroke="white" stroke-width="5">
+    <ellipse cx="57" cy="29" rx="17" ry="28"/><ellipse cx="57" cy="81" rx="17" ry="28"/>
+    <ellipse cx="32" cy="43" rx="17" ry="28" transform="rotate(-60 32 43)"/><ellipse cx="82" cy="68" rx="17" ry="28" transform="rotate(-60 82 68)"/>
+    <ellipse cx="32" cy="68" rx="17" ry="28" transform="rotate(60 32 68)"/><ellipse cx="82" cy="43" rx="17" ry="28" transform="rotate(60 82 43)"/>
+  </g>
+  <circle cx="57" cy="55" r="20" fill="#f6d58c"/>
+  <g fill="#68475f"><circle cx="50" cy="53" r="2"/><circle cx="64" cy="53" r="2"/></g><path d="M51 61Q57 67 63 61" fill="none" stroke="#68475f" stroke-width="2" stroke-linecap="round"/>
+</g>
+<g font-family="Segoe UI,Arial,sans-serif" text-anchor="middle">
+  <text x="480" y="87" font-size="12" font-weight="600" letter-spacing="4" fill="#93778e">UN POQUITO DE MI MUNDO</text>
+  <text x="480" y="127" font-size="20" fill="#89677e">Hola, soy</text>
+  <path d="M256 190Q480 177 705 191L700 211Q480 200 259 214Z" fill="#eed9eb"/>
+  <text x="480" y="193" font-size="59" font-weight="750" letter-spacing="-2.5" fill="#59364f">Jazmín Bustos</text>
+  <text x="480" y="235" font-size="19" fill="#72566e">Desarrollo de software · Informática</text>
+  <rect x="365" y="266" width="230" height="30" rx="15" fill="#e9e0f0"/>
+  <text x="480" y="286" font-size="12" letter-spacing="1.2" fill="#715275">curiosidad + creatividad + código</text>
+</g>
+<g transform="translate(62 250) rotate(7)"><rect x="2" y="3" width="133" height="34" rx="7" fill="#dacdbd"/><rect width="133" height="34" rx="7" fill="#f5da9e" stroke="white" stroke-width="4"/><text x="66" y="23" text-anchor="middle" font-family="Consolas,monospace" font-size="15" fill="#715275">@jazpbustos</text></g>
+<g transform="translate(771 214) rotate(-12)"><path d="M0 0V67L18 51L32 78L47 70L33 45L59 41Z" fill="#b8cbbc" stroke="white" stroke-width="8" stroke-linejoin="round"/><path d="M0 0V67L18 51L32 78L47 70L33 45L59 41Z" fill="none" stroke="#597262" stroke-width="2" stroke-linejoin="round"/></g>
+<g fill="#bc99ce"><path d="m235 44 5 14 14 5-14 5-5 14-5-14-14-5 14-5Z"/><path d="m717 263 4 11 11 4-11 4-4 11-4-11-11-4 11-4Z"/></g>
+<g fill="#cd8faa"><circle cx="212" cy="228" r="4"/><circle cx="902" cy="210" r="4"/><circle cx="681" cy="47" r="3"/></g>
+<path d="M866 258q26 8 12 25t18 18" fill="none" stroke="#bc99ce" stroke-width="3" stroke-linecap="round"/>
+</g>
+</svg>
