@@ -1,7 +1,5 @@
 <img src="./assets/color-line.svg" width="100%" alt="Línea decorativa multicolor">
 
-<img src="./assets/banner-jazmin.png" width="100%" alt="Ilustración de Jazmín desarrollando software">
-
 <h1 align="center">Hola, soy Jazmín Bustos 👋🏻</h1>
 
 <p align="center">
