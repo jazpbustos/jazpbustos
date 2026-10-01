@@ -1,44 +1,65 @@
-<img src="./assets/color-line.svg" width="100%" alt="Línea decorativa multicolor">
-
-<h1 align="center">Hola, soy Jazmín Bustos 👋🏻</h1>
-
 <p align="center">
-  <strong>Desarrollo de Software · Informática</strong>
+  <img src="./assets/banner-citypop.svg" width="960" alt="Hola, soy Jazmín Bustos. Desarrollo de software · Informática. Portada city pop en violeta y rosa.">
 </p>
 
-Soy estudiante avanzada de Licenciatura en Informática y Técnica en Programación. Mi interés profesional está orientado al desarrollo web y de software, y a seguir profundizando en inteligencia artificial y nuevas tecnologías.
+<p align="center">
+  <code>desarrollo web</code> &nbsp;✦&nbsp; <code>software</code> &nbsp;✦&nbsp; <code>inteligencia artificial</code>
+</p>
 
-### Tecnologías
+## `$ whoami`
 
-#### Frontend
+Soy **Jazmín Bustos**, estudiante avanzada de **Licenciatura en Informática** y **Técnica en Programación**.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=282A36)
+Mi interés profesional está orientado al desarrollo web y de software, y a seguir profundizando en inteligencia artificial y nuevas tecnologías.
 
-#### Backend
+```yaml
+jazpbustos:
+  enfoque: desarrollo web y de software
+  explorando: inteligencia artificial y nuevas tecnologías
+  modo: seguir aprendiendo
+```
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<img src="./assets/divider-citypop.svg" width="100%" alt="">
 
-#### Bases de datos
+## `$ cat stack.yaml`
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=282A36)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 / Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,js&amp;theme=dark" height="48" alt="HTML5, CSS3 y JavaScript">
+      <p><code>HTML5 · CSS3 · JavaScript</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 / Backend</h3>
+      <img src="https://skillicons.dev/icons?i=php,python,java&amp;theme=dark" height="48" alt="PHP, Python y Java">
+      <p><code>PHP · Python · Java</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 / Bases de datos</h3>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase&amp;theme=dark" height="48" alt="MySQL, PostgreSQL y Supabase">
+      <p><code>MySQL · PostgreSQL · Supabase</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 / CMS</h3>
+      <img src="https://skillicons.dev/icons?i=wordpress&amp;theme=dark" height="48" alt="WordPress">
+      <p><code>WordPress · Elementor</code></p>
+    </td>
+  </tr>
+</table>
 
-#### CMS
+<img src="./assets/divider-citypop.svg" width="100%" alt="">
 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+## `$ connect --socials`
 
-### Contacto
+<p align="center">
+  <a href="https://www.linkedin.com/in/jazminpbustos/"><img src="https://img.shields.io/badge/LinkedIn-BDA0EF?style=for-the-badge" alt="Conectemos en LinkedIn"></a>
+  &nbsp;
+  <a href="mailto:jaz_bustos@outlook.com"><img src="https://img.shields.io/badge/Email-EEA1C3?style=for-the-badge" alt="Escribime a jaz_bustos@outlook.com"></a>
+</p>
 
-<!--
-<a href="https://jazminbustos.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-FF79C6?style=for-the-badge&logo=vercel&logoColor=282A36" alt="Portfolio">
-</a>
--->
-<a href="https://www.linkedin.com/in/jazminpbustos/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:jaz_bustos@outlook.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-BD93F9?style=for-the-badge&logo=microsoftoutlook&logoColor=282A36" alt="Email"></a>
+<!-- Portfolio: activar cuando esté listo — https://jazminbustos.vercel.app/ -->
+
+<p align="center"><sub>Aprender, crear y seguir explorando. ✦ @jazpbustos</sub></p>
