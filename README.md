@@ -55,6 +55,8 @@ Soy **Jazmín Bustos**, estudiante avanzada de **Licenciatura en Informática** 
   <a href="mailto:jaz_bustos@outlook.com"><img src="https://img.shields.io/badge/Email-EEA1C3?style=for-the-badge" alt="Escribime a jaz_bustos@outlook.com"></a>
 </p>
 
-<!-- Portfolio: activar cuando esté listo — https://jazminbustos.vercel.app/ -->
+<p align="center">
+  <a href="https://jazminbustos.vercel.app/"><img src="https://img.shields.io/badge/Mi_portfolio-F1E3C4?style=for-the-badge" alt="Visitá mi portfolio: Jazmín Bustos"></a>
+</p>
 
 <p align="center"><sub>Aprender, crear y seguir explorando. ✦ @jazpbustos</sub></p>
